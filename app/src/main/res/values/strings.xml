@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Feed App</string>
+    <string name="news_title">Title</string>
+    <string name="news_section">News Section</string>
+    <string name="date_of_publish">Date of Publish</string>
+    <string name="news_type">Type</string>
+    <string name="refresh_option">Refresh</string>
+    <string name="no_network_connection">No Network Connection !</string>
+</resources>
